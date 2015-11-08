@@ -15,9 +15,9 @@ log returns.
 Every Saturday, four sets of correlation matrices are created, archived, and
 uploaded containing the 50, 100, 200, and YTD equity correlation matrices. The
 git repository only functions as a download URL mirror and index to the
-externally hosted files. Each 7zip correlation matrix archive contains two
-files, the actual correlation matrix and a list of symbols contained in the
-respective analysis. 
+externally hosted files. Each 7zip correlation matrix archive contains three
+files, the actual correlation matrix, a list of symbols contained in the
+respective analysis, and the date range of the calculations. 
 
 The compressed files and their contents use the following naming pattern:
 
