@@ -36,6 +36,7 @@ correlations of that symbol to the column symbols. Example:
 
 
 |      | AAPL | GOOG | IBM  | QQQ  | SPY  |
+|------|------|------|------|------|------|
 | AAPL | 1.00 | 0.41 | 0.53 | 0.76 | 0.70 |
 | GOOG | 0.41 | 1.00 | 0.45 | 0.67 | 0.56 |
 | IBM  | 0.53 | 0.45 | 1.00 | 0.67 | 0.72 |
