@@ -60,5 +60,8 @@ correlations of that symbol to the column symbols. Example:
 
 ### Contact
 If you have comments or issues, please [file an issue]
-(https://github.com/astocko/equities_corr/issues/new) or contact me on twitter,
+(http://github.com/astocko/equities_corr/issues/new) or contact me on twitter,
 [@astocko](http://twitter.com/astocko).
+
+### License
+US Equities Correlation Analysis by [Alexander Stocko](http://github.com/astocko) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
