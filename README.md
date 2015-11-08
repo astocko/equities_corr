@@ -22,14 +22,14 @@ The compressed files and their contents use the following naming pattern:
     enddate_window.ext
     
     20151106_200d.7z
-	20151106_200d.csv
+        20151106_200d.csv
         20151106_200d_symbols.csv
         20151106_200d_dates.csv
     
     20151106_YTD.7z
         20151106_YTD.csv
-	20151106_YTD_symbols.csv
-	20151106_YTD_dates.csv
+        20151106_YTD_symbols.csv
+        20151106_YTD_dates.csv
 
 
 
