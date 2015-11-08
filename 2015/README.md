@@ -17,3 +17,9 @@
 * [20151023_100d.7z](http://download.astocko.com/equities_corr/2015/20151023_100d.7z)
 * [20151023_200d.7z](http://download.astocko.com/equities_corr/2015/20151023_200d.7z)
 * [20151023_YTD.7z](http://download.astocko.com/equities_corr/2015/20151023_YTD.7z)
+
+### 2015-10-16 Update
+* [20151016_50d.7z](http://download.astocko.com/equities_corr/2015/20151016_50d.7z)
+* [20151016_100d.7z](http://download.astocko.com/equities_corr/2015/20151016_100d.7z)
+* [20151016_200d.7z](http://download.astocko.com/equities_corr/2015/20151016_200d.7z)
+* [20151016_YTD.7z](http://download.astocko.com/equities_corr/2015/20151016_YTD.7z)
