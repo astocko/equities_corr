@@ -52,6 +52,6 @@ correlations of that symbol to the column symbols. Example:
 
 
 ### Contact
-If you have comments or issues, please file an issue at the
-[github project page](https://github.com/astocko/corr), contact me @astocko,
-or on [twitter](http://twitter.com/astocko).
+If you have comments or issues, please [file an issue]
+(https://github.com/astocko/equities_corr/issues/new) or contact me on twitter,
+[@astocko](http://twitter.com/astocko).
