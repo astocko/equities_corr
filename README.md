@@ -1,7 +1,7 @@
 ![CC BY SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 ### Downloads
-[2015](2015/README.md)
+[2015](2015/)
 
 ### US Equities Correlation Analysis
 This project publishes a weekly correlation matrix of all US equities with 
