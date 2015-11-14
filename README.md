@@ -8,7 +8,7 @@ This project publishes a weekly correlation matrix of all US equities with
 daily trading activity. The correlation analysis is based upon the equity
 returns of the last 50, 100, 200, and YTD trading days. Underlying price data
 is sourced from a premium market data vendor and correlations are calculated on
-log returns.
+split/dividend adjusted log returns.
 
 
 ### Data Files
