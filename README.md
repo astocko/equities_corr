@@ -1,5 +1,9 @@
 ![CC BY SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
+### Update
+
+Because of my own holiday schedule, I did not update the tables the last two weeks. I will be backfilling the data on Wednesday, December 2nd.
+
 ### Downloads
 [2015](2015/)
 
