@@ -2,7 +2,7 @@
 
 ### Update
 
-Because of my own holiday schedule, I did not update the tables the last two weeks. I will be backfilling the data on Wednesday, December 2nd.
+Because of my own holiday schedule, I did not update the tables the past weeks. I will be backfilling the data going into next year while also providing more formats and better visualization tools.
 
 ### Downloads
 [2015](2015/)
